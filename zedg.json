@@ -1,16 +1,16 @@
 {
-  "version": "1.24.2",
+  "version": "1.24.3",
   "description": "Zed Editor (Localized / 汉化版)",
   "homepage": "https://github.com/zhtshan/zed-globalization",
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/zhtshan/zed-globalization/releases/download/v1.24.2/zedg-zh-cn-windows-x86_64-v1.24.2.zip",
-      "hash": "3afc450ef318f053d68b61532e626ad291f7961b18420f7ec4c4b883659b47ee"
+      "url": "https://github.com/zhtshan/zed-globalization/releases/download/v1.24.3/zedg-zh-cn-windows-x86_64-v1.24.3.zip",
+      "hash": "6d013141a3ab6c3ed85d29c33f7e660d2f0df0dbf8c3344a809993d59a37065f"
     },
     "arm64": {
-      "url": "https://github.com/zhtshan/zed-globalization/releases/download/v1.24.2/zedg-zh-cn-windows-aarch64-v1.24.2.zip",
-      "hash": "cff57d57fd338e0eef4fec2a3c50f3e4370c61f206f0c534b75190624e8ada16"
+      "url": "https://github.com/zhtshan/zed-globalization/releases/download/v1.24.3/zedg-zh-cn-windows-aarch64-v1.24.3.zip",
+      "hash": "85a9d7d5efdc8c4afd321695839ffb7a967bc6d657ffdd233326876e2699410c"
     }
   },
   "bin": [
